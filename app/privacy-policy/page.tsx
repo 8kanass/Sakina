@@ -54,7 +54,10 @@ export default function PrivacyPolicy() {
                     <section className="mb-8">
                         <h2 className="text-2xl font-bold text-slate-900 mb-4">5. Third-Party Services</h2>
                         <p>
-                            The app sits entirely on your device and does not integrate with third-party analytics or advertising networks that track your behavior across other apps.
+                            Sakina Pause uses <strong>Google Firebase Analytics</strong> to collect anonymous usage data (e.g., number of active users, session duration, crash reports) to help us improve the App's stability and performance.
+                        </p>
+                        <p className="mt-2">
+                            This usage data is aggregated and does not identify you personally. We do <strong>not</strong> use this data for advertising purposes or share it with third-party tracking networks.
                         </p>
                     </section>
 
